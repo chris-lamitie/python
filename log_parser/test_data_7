@@ -1,0 +1,7 @@
+process,date,host,bytes,log
+cme_trader_2,20140206,cme0001,15400000,0345-fut_trader_2.log.gz
+phlx_trader_1,20140206,phlx0001,14100000,0651-opt_trader_1.log.gz
+phlx_trader_2,20140206,phlx0001,13800000,0645-opt_trader_2.log.gz
+cme_trader_2,20140207,cme0001,15800000,0345-fut_trader_2.log.gz
+cme_trader_3,20140207,cme0001,14200000,0345-fut_trader_3.log.gz
+phlx_trader_1,20140207,phlx0001,24100000,0651-opt_trader_1.log.gz

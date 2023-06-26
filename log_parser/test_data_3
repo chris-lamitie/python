@@ -1,0 +1,7 @@
+date,process,host,log,bytes
+20140206,cme_trader_2,au0001,0345-cme_trader_2.log.gz,15400000
+20140209,cme_trader_2,au0001,0345-cme_trader_2.log.gz,15800000
+20140206,phlx_trader_1,se0001,0651-phlx_trader_1.log.gz,14100000
+20140209,cme_trader_3,au0001,0345-cme_trader_3.log.gz,14200000
+20140206,phlx_trader_2,se0001,0645-phlx_trader_2.log.gz,13800000
+20140209,phlx_trader_1,se0001,0651-phlx_trader_1.log.gz,24100000
